@@ -1,0 +1,24 @@
+C:\Users\angelbert\AppData\Local\Temporary Projects\Shuffle_game\bin\Debug\Shuffle_game.exe
+C:\Users\angelbert\AppData\Local\Temporary Projects\Shuffle_game\bin\Debug\Shuffle_game.pdb
+C:\Users\angelbert\AppData\Local\Temporary Projects\Shuffle_game\bin\Debug\Shuffle_game.xml
+C:\Users\angelbert\AppData\Local\Temporary Projects\Shuffle_game\obj\x86\Debug\Shuffle_game.Form1.resources
+C:\Users\angelbert\AppData\Local\Temporary Projects\Shuffle_game\obj\x86\Debug\Shuffle_game.Resources.resources
+C:\Users\angelbert\AppData\Local\Temporary Projects\Shuffle_game\obj\x86\Debug\Shuffle_game.vbproj.GenerateResource.Cache
+C:\Users\angelbert\AppData\Local\Temporary Projects\Shuffle_game\obj\x86\Debug\Shuffle_game.exe
+C:\Users\angelbert\AppData\Local\Temporary Projects\Shuffle_game\obj\x86\Debug\Shuffle_game.xml
+C:\Users\angelbert\AppData\Local\Temporary Projects\Shuffle_game\obj\x86\Debug\Shuffle_game.pdb
+C:\Users\angelbert\Desktop\vb\syllabus\Shuffle_game\Shuffle_game\obj\x86\Debug\Shuffle_game.exe
+C:\Users\angelbert\Desktop\vb\syllabus\Shuffle_game\Shuffle_game\obj\x86\Debug\Shuffle_game.xml
+C:\Users\angelbert\Desktop\vb\syllabus\Shuffle_game\Shuffle_game\obj\x86\Debug\Shuffle_game.pdb
+E:\my\vb\game-vb\Shuffle_game\Shuffle_game\obj\x86\Debug\Shuffle_game.exe
+E:\my\vb\game-vb\Shuffle_game\Shuffle_game\obj\x86\Debug\Shuffle_game.xml
+E:\my\vb\game-vb\Shuffle_game\Shuffle_game\obj\x86\Debug\Shuffle_game.pdb
+E:\my\vb\game-vb\Shuffle_game\Shuffle_game\bin\Debug\Shuffle_game.exe
+E:\my\vb\game-vb\Shuffle_game\Shuffle_game\bin\Debug\Shuffle_game.pdb
+E:\my\vb\game-vb\Shuffle_game\Shuffle_game\bin\Debug\Shuffle_game.xml
+E:\my\vb\game-vb\Shuffle_game\Shuffle_game\obj\x86\Debug\Shuffle_game.Form1.resources
+E:\my\vb\game-vb\Shuffle_game\Shuffle_game\obj\x86\Debug\Shuffle_game.Resources.resources
+E:\my\vb\game-vb\Shuffle_game\Shuffle_game\obj\x86\Debug\Shuffle_game.vbproj.GenerateResource.Cache
+E:\my\vb project\vb\game-vb\Shuffle_game\Shuffle_game\obj\x86\Debug\Shuffle_game.exe
+E:\my\vb project\vb\game-vb\Shuffle_game\Shuffle_game\obj\x86\Debug\Shuffle_game.xml
+E:\my\vb project\vb\game-vb\Shuffle_game\Shuffle_game\obj\x86\Debug\Shuffle_game.pdb
